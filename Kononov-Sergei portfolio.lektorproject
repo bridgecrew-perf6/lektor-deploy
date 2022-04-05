@@ -1,0 +1,8 @@
+[project]
+name = Kononov-Sergei portfolio
+
+[servers.ghpages]
+name = Prod
+target = ghpages+https://Kononov-Sergey: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@Kononov-Sergey/lektor-deploy
+
+
